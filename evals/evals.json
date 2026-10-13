@@ -1,0 +1,34 @@
+{
+  "skill_name": "merchant-center-optimizer",
+  "evals": [
+    {
+      "id": "url-producto-simple",
+      "prompt": "Optimízame la ficha de este producto para Merchant Center: [URL de un producto con ficha completa]. El id en el feed es shopify_ES_111_222.",
+      "expectations": [
+        "Entrega title y description (no structured) salvo que se pidan",
+        "Con conectores de Drive y Sheets crea una hoja de Google con pestañas Feed y Notas; sin ellos entrega el .xlsx",
+        "validate_feed.py termina sin errores",
+        "Notas y el resumen incluyen el aviso sobre contenido generado con IA en title y description",
+        "No incluye datos que no estén en la ficha",
+        "popularity_rank, document_link y video_link vacíos si no se aportan datos"
+      ]
+    },
+    {
+      "id": "faq-sin-duplicados",
+      "prompt": "Añade preguntas y respuestas para AI Mode a este producto. Ya tiene descripción, 6 highlights y 8 product_detail: [pegar datos].",
+      "expectations": [
+        "Ninguna respuesta repite principalmente datos de la descripción, highlights o product_detail",
+        "No hay dos preguntas que se solapen o se contradigan",
+        "Comas y dos puntos del texto escapados en la salida, sin sustituir comas por ' / '"
+      ]
+    },
+    {
+      "id": "popularity-con-clics",
+      "prompt": "Calcula el popularity_rank de mis productos con este informe de clics de Google Ads: [informe sin ventas].",
+      "expectations": [
+        "No calcula popularity_rank a partir de clics",
+        "Explica que Google pide que refleje ventas y pide los datos de ventas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "productos": [
+    {
+      "id": "shopify_ES_1000000000001_2000000000001",
+      "feed_label": "ES",
+      "content_language": "es",
+      "short_title": "Lámpara LED de escritorio con brazo articulado",
+      "google_product_category": "4636",
+      "product_type": "Iluminación > Lámparas de escritorio > Lámparas LED",
+      "item_group_title": "Lámpara de escritorio LED Nórdika Lumen",
+      "product_highlight": [
+        "Brazo articulado y cabezal orientable para dirigir la luz",
+        "Panel táctil en la base para regular intensidad y tono de luz",
+        "Cinco niveles de intensidad",
+        "Luz cálida, neutra o fría según la tarea"
+      ],
+      "product_detail": [
+        {
+          "section": "General",
+          "name": "Material",
+          "value": "Aluminio y policarbonato"
+        },
+        {
+          "section": "Iluminación",
+          "name": "Potencia",
+          "value": "8 W"
+        },
+        {
+          "section": "Iluminación",
+          "name": "Temperatura de color",
+          "value": "3000 K, 4000 K y 5000 K"
+        },
+        {
+          "section": "Alimentación",
+          "name": "Conexión",
+          "value": "USB-C, 5 V"
+        },
+        {
+          "section": "Medidas",
+          "name": "Altura máxima",
+          "value": "45 cm"
+        },
+        {
+          "section": "Contenido del paquete",
+          "name": "Incluye",
+          "value": "Lámpara, cable USB-C de 1,5 m y manual de uso"
+        }
+      ],
+      "question_and_answer": [
+        {
+          "question": "¿Incluye cargador de corriente?",
+          "answer": "No. Incluye el cable USB-C, que se puede conectar a un cargador de móvil de 5 V o a un puerto USB del ordenador."
+        },
+        {
+          "question": "¿Recuerda la última intensidad usada?",
+          "answer": "Sí. Al encenderla vuelve al último nivel de intensidad y temperatura de color seleccionados."
+        },
+        {
+          "question": "¿Se puede fijar al borde de la mesa?",
+          "answer": "No. Se apoya sobre la mesa con su base, que no lleva pinza ni anclaje."
+        }
+      ],
+      "variant_option": [
+        {
+          "name": "color",
+          "value": "negro"
+        }
+      ],
+      "related_product": [
+        {
+          "relationship_type": "part_of_set",
+          "identifier_type": "id",
+          "identifier": "shopify_ES_1000000000001_2000000000002"
+        },
+        {
+          "relationship_type": "accessory",
+          "identifier_type": "id",
+          "identifier": "shopify_ES_1000000000005_2000000000009"
+        }
+      ],
+      "popularity_rank": 82.4,
+      "title": "Lámpara de escritorio LED de aluminio con brazo articulado y luz regulable 3000-5000 K - Nórdika Lumen - Negro",
+      "description": "Lámpara de escritorio LED con brazo articulado de aluminio y cabezal orientable, pensada para estudio y trabajo de oficina. Permite regular la intensidad en 5 niveles y la temperatura de color entre 3000 K (luz cálida) y 5000 K (luz fría) desde un panel táctil en la base. Funciona conectada por USB-C a un cargador o al ordenador y alcanza una altura máxima de 45 cm. Disponible en negro y en blanco."
+    },
+    {
+      "id": "shopify_ES_1000000000001_2000000000002",
+      "feed_label": "ES",
+      "content_language": "es",
+      "short_title": "Lámpara LED de escritorio con brazo articulado",
+      "google_product_category": "4636",
+      "product_type": "Iluminación > Lámparas de escritorio > Lámparas LED",
+      "item_group_title": "Lámpara de escritorio LED Nórdika Lumen",
+      "product_highlight": [
+        "Brazo articulado y cabezal orientable para dirigir la luz",
+        "Panel táctil en la base para regular intensidad y tono de luz",
+        "Cinco niveles de intensidad",
+        "Luz cálida, neutra o fría según la tarea"
+      ],
+      "product_detail": [
+        {
+          "section": "General",
+          "name": "Material",
+          "value": "Aluminio y policarbonato"
+        },
+        {
+          "section": "Iluminación",
+          "name": "Potencia",
+          "value": "8 W"
+        },
+        {
+          "section": "Iluminación",
+          "name": "Temperatura de color",
+          "value": "3000 K, 4000 K y 5000 K"
+        },
+        {
+          "section": "Alimentación",
+          "name": "Conexión",
+          "value": "USB-C, 5 V"
+        },
+        {
+          "section": "Medidas",
+          "name": "Altura máxima",
+          "value": "45 cm"
+        },
+        {
+          "section": "Contenido del paquete",
+          "name": "Incluye",
+          "value": "Lámpara, cable USB-C de 1,5 m y manual de uso"
+        }
+      ],
+      "question_and_answer": [
+        {
+          "question": "¿Incluye cargador de corriente?",
+          "answer": "No. Incluye el cable USB-C, que se puede conectar a un cargador de móvil de 5 V o a un puerto USB del ordenador."
+        },
+        {
+          "question": "¿Recuerda la última intensidad usada?",
+          "answer": "Sí. Al encenderla vuelve al último nivel de intensidad y temperatura de color seleccionados."
+        },
+        {
+          "question": "¿Se puede fijar al borde de la mesa?",
+          "answer": "No. Se apoya sobre la mesa con su base, que no lleva pinza ni anclaje."
+        }
+      ],
+      "variant_option": [
+        {
+          "name": "color",
+          "value": "blanco"
+        }
+      ],
+      "related_product": [
+        {
+          "relationship_type": "part_of_set",
+          "identifier_type": "id",
+          "identifier": "shopify_ES_1000000000001_2000000000001"
+        },
+        {
+          "relationship_type": "accessory",
+          "identifier_type": "id",
+          "identifier": "shopify_ES_1000000000005_2000000000009"
+        }
+      ],
+      "popularity_rank": 61,
+      "title": "Lámpara de escritorio LED de aluminio con brazo articulado y luz regulable 3000-5000 K - Nórdika Lumen - Blanco",
+      "description": "Lámpara de escritorio LED con brazo articulado de aluminio y cabezal orientable, pensada para estudio y trabajo de oficina. Permite regular la intensidad en 5 niveles y la temperatura de color entre 3000 K (luz cálida) y 5000 K (luz fría) desde un panel táctil en la base. Funciona conectada por USB-C a un cargador o al ordenador y alcanza una altura máxima de 45 cm. Disponible en blanco y en negro."
+    }
+  ],
+  "notas": [
+    "EJEMPLO FICTICIO: marca, producto, IDs y datos inventados para mostrar el formato. No subir.",
+    "document_link y video_link vacíos a propósito: no hay PDF ni vídeo del producto. Una URL inventada daría error.",
+    "popularity_rank calculado como percentil de unidades vendidas en los últimos 90 días sobre los productos activos."
+  ]
+}
