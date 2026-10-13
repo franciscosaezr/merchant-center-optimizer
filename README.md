@@ -72,6 +72,6 @@ Google cambia la especificación de producto cada año. Cada reference lleva el 
 
 ## Autor
 
-Francisco Sáez (Paco) · Google Ads para tiendas online · [franciscosaezr.com](https://franciscosaezr.com)
+Francisco Sáez · Google Ads para tiendas online · [franciscosaezr.com](https://franciscosaezr.com)
 
 Licencia MIT. Úsala, cámbiala y compártela.
